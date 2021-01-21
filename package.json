@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^7.1.2",
     "axios": "^0.19.2",
     "formik": "^2.1.4",
-    "immer": "^5.3.6",
+    "immer": "^8.0.1",
     "jspdf": "^1.5.3",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
